@@ -114,6 +114,7 @@ if(gazebo_FOUND)
 		warehouse
 		windy
 		yosemite
+		erc
 	)
 
 	# find corresponding airframes
